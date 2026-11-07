@@ -1,4 +1,5 @@
 The terrain dataset is available at: https://drive.google.com/drive/folders/15rdyAKpyy1Y9GHARULPEpXpp70xxgoUN?usp=drive_link
+and at https://doi.org/10.5281/zenodo.24024999 
 It consists of seven labels such as Desert, Forest, Grassy, Marshy, Mountain, and Plains. Furthermore, the dataset divided into
 test, train, and validation data. The complete information of dataset is described in Table 1.
 
